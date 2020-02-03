@@ -1,4 +1,4 @@
-package Student;
+package studentP;
 
 import javax.swing.JFrame;
 

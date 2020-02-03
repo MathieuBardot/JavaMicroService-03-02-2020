@@ -34,11 +34,8 @@ public class InternalController {
 	
 	@GetMapping(value="/", produces = MediaType.TEXT_PLAIN_VALUE)
 	public String index() {
-		System.out.println("OOOOOOOOOOKKKKKKKKKKKKK");
-	    return "OKO OK OK O K OK OK O KOKOK";
+		System.out.println("OOK");
+	    return "OK ?";
 	}
-	
-	
-	
-	
+
 }

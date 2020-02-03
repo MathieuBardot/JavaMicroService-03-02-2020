@@ -1,7 +1,8 @@
-package GradeRepository;
+package Grade.GradeRepository;
 
 import org.springframework.data.repository.CrudRepository;
-import entities.Grade;
+
+import Grade.entities.Grade;
 
 public interface GradeRepository extends CrudRepository<Grade, Long> {
 

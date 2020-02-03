@@ -1,10 +1,10 @@
-package entities;
+package Grade.entities;
 
 import java.sql.Date;
 
 import lombok.Data;
 
-@Data
+@Data //@Entity
 public class Grade {
 	
 	private Integer id;

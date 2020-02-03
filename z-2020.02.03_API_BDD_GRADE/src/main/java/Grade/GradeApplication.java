@@ -1,5 +1,6 @@
 package Grade;
 
+
 import javax.swing.JFrame;
 
 import org.springframework.boot.SpringApplication;
@@ -8,7 +9,6 @@ import org.springframework.cloud.openfeign.EnableFeignClients;
 
 @SpringBootApplication
 @EnableFeignClients
-
 public class GradeApplication {
 
 	public static void main(String[] args) {

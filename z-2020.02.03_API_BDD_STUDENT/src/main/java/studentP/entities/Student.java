@@ -1,4 +1,4 @@
-package entities;
+package studentP.entities;
 
 import java.sql.Date;
 
